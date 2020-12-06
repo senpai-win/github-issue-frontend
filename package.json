@@ -1,5 +1,5 @@
 {
-  "homepage": "https://senpai-win.github.io/github-issue-frontend",
+  "homepage": ".",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,8 @@
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
@@ -23,12 +25,10 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "craco build",
+    "start": "craco build && node server.js",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
