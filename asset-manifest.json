@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github-issue-frontend/static/css/main.0e77ea03.chunk.css",
+    "main.js": "/github-issue-frontend/static/js/main.69bd832a.chunk.js",
+    "main.js.map": "/github-issue-frontend/static/js/main.69bd832a.chunk.js.map",
+    "runtime-main.js": "/github-issue-frontend/static/js/runtime-main.6e898ad3.js",
+    "runtime-main.js.map": "/github-issue-frontend/static/js/runtime-main.6e898ad3.js.map",
+    "static/css/2.b195be0e.chunk.css": "/github-issue-frontend/static/css/2.b195be0e.chunk.css",
+    "static/js/2.e678a581.chunk.js": "/github-issue-frontend/static/js/2.e678a581.chunk.js",
+    "static/js/2.e678a581.chunk.js.map": "/github-issue-frontend/static/js/2.e678a581.chunk.js.map",
+    "static/js/3.0a8fae81.chunk.js": "/github-issue-frontend/static/js/3.0a8fae81.chunk.js",
+    "static/js/3.0a8fae81.chunk.js.map": "/github-issue-frontend/static/js/3.0a8fae81.chunk.js.map",
+    "index.html": "/github-issue-frontend/index.html",
+    "static/css/2.b195be0e.chunk.css.map": "/github-issue-frontend/static/css/2.b195be0e.chunk.css.map",
+    "static/css/main.0e77ea03.chunk.css.map": "/github-issue-frontend/static/css/main.0e77ea03.chunk.css.map",
+    "static/js/2.e678a581.chunk.js.LICENSE.txt": "/github-issue-frontend/static/js/2.e678a581.chunk.js.LICENSE.txt",
+    "static/media/issueClosed.2bd0e5e7.svg": "/github-issue-frontend/static/media/issueClosed.2bd0e5e7.svg",
+    "static/media/issueOpen.b3853066.svg": "/github-issue-frontend/static/media/issueOpen.b3853066.svg",
+    "static/media/loader.30ff75dd.svg": "/github-issue-frontend/static/media/loader.30ff75dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e898ad3.js",
+    "static/css/2.b195be0e.chunk.css",
+    "static/js/2.e678a581.chunk.js",
+    "static/css/main.0e77ea03.chunk.css",
+    "static/js/main.69bd832a.chunk.js"
+  ]
+}
